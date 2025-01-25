@@ -323,7 +323,6 @@ section {
   gap: 1.5rem;
   color: white;
   padding: 10px;
-  cursor: pointer;
   overflow-y: scroll;
 }
 

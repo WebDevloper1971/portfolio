@@ -1,8 +1,8 @@
 const projectList = [
   {
-    name: "Velet",
+    name: "Vadanam",
     description:
-      "Timepieces Ecommerce Platform made with Next JS Framework, Prisma ORM, OAuth features for Authentication and Authorization with Modern yet Classic User Interface made with Figma and implemented with Tailwind CSS and Daisy UI. MongoDB Atlas (NoSQL Database) is used for storing data.",
+      "Ecommerce Platform for Timepieces made with Next JS Framework, Prisma ORM, OAuth features for Authentication and Authorization with Modern yet Classic User Interface made with Figma and implemented with Tailwind CSS and Daisy UI. MongoDB Atlas (NoSQL Database) is used for storing data.",
     image: "./project/ecomm.png",
     link: "https://ecommerce-next-js-mauve-rho.vercel.app/",
     svg: "./link.svg",
@@ -10,58 +10,58 @@ const projectList = [
   {
     name: "Eco-Blog",
     description:
-      "Timepieces Ecommerce Platform made with Next JS Framework, Prisma ORM, OAuth features for Authentication and Authorization with Modern yet Classic User Interface made with Figma and implemented with Tailwind CSS and Daisy UI. MongoDB Atlas (NoSQL Database) is used for storing data.",
+      "[ Note : Please wait for a minute when visiting live website as free servers have a sleep cycle. 🙏 ] Blog for environmental awareness made with Springboot-Java for backend API's, Postgresql as database, React for frontend, JWT based authentication, Lexical for custom Rich Text Editor, React Query for data fetching and tailwind CSS and DaisyUI for elegant user interface.",
     image: "./project/ecoblog.png",
-    link: "https://ecommerce-next-js-mauve-rho.vercel.app/",
-    svg: "/link.svg",
+    link: "https://eco-blog-react-frontend.vercel.app/",
+    svg: "./link.svg",
   },
   {
     name: "VouTube",
     description:
-      "Timepieces Ecommerce Platform made with Next JS Framework, Prisma ORM, OAuth features for Authentication and Authorization with Modern yet Classic User Interface made with Figma and implemented with Tailwind CSS and Daisy UI. MongoDB Atlas (NoSQL Database) is used for storing data.",
+      "My uptake on design of most popular video streaming platform ' Youtube ' made by using Youtube Data API V3 from GCP for real time data, React for frontend, React Query for data fetching and caching, Tailwind CSS for styling and Figma for UI designing.",
     image: "./project/yt.png",
-    link: "https://ecommerce-next-js-mauve-rho.vercel.app/",
-    svg: "/link.svg",
+    link: "https://github.com/WebDevloper1971/youtube-data-api-demo",
+    svg: "./link.svg",
   },
   {
     name: "AMP Project",
     description:
-      "Timepieces Ecommerce Platform made with Next JS Framework, Prisma ORM, OAuth features for Authentication and Authorization with Modern yet Classic User Interface made with Figma and implemented with Tailwind CSS and Daisy UI. MongoDB Atlas (NoSQL Database) is used for storing data.",
+      "' Cute Paws ' - University Project on AMP [Accelerated Mobile Pages] Framework, having features like [ data caching, use GPU for processing UI elements and not CPU, font preloading, static layout, optimised SEO, ready-to-use components.",
     image: "./project/amp.png",
-    link: "https://ecommerce-next-js-mauve-rho.vercel.app/",
-    svg: "/link.svg",
+    link: "https://github.com/WebDevloper1971/college-project-AMP",
+    svg: "./link.svg",
   },
   {
     name: "OTP Auth",
     description:
-      "Timepieces Ecommerce Platform made with Next JS Framework, Prisma ORM, OAuth features for Authentication and Authorization with Modern yet Classic User Interface made with Figma and implemented with Tailwind CSS and Daisy UI. MongoDB Atlas (NoSQL Database) is used for storing data.",
+      "OTP [One Time Password] based authentication implemented by using both Java [Springboot, Java mail] and NodeJs [Nodemailer], Mailtrap as E-mail Client, NextJS as full stack framework for developing API as well as UI.",
     image: "./project/otpAuth.png",
-    link: "https://ecommerce-next-js-mauve-rho.vercel.app/",
-    svg: "/link.svg",
+    link: "https://github.com/WebDevloper1971/otp-based-login-springboot",
+    svg: "./link.svg",
   },
   {
     name: "Password Manager",
     description:
-      "Timepieces Ecommerce Platform made with Next JS Framework, Prisma ORM, OAuth features for Authentication and Authorization with Modern yet Classic User Interface made with Figma and implemented with Tailwind CSS and Daisy UI. MongoDB Atlas (NoSQL Database) is used for storing data.",
+      "Desktop Application made with Java using Swing library for storing and managing all your passwords at single place. Passwords are stored in text file for reducing dependency on third party platforms.",
     image: "./project/passwordManager.png",
-    link: "https://ecommerce-next-js-mauve-rho.vercel.app/",
-    svg: "/link.svg",
+    link: "https://github.com/WebDevloper1971/password-manager",
+    svg: "./link.svg",
   },
   {
     name: "Algorithm Visualizer",
     description:
-      "Timepieces Ecommerce Platform made with Next JS Framework, Prisma ORM, OAuth features for Authentication and Authorization with Modern yet Classic User Interface made with Figma and implemented with Tailwind CSS and Daisy UI. MongoDB Atlas (NoSQL Database) is used for storing data.",
+      "Desktop Application made with Java and Swing library to better visualise the working of algorithm like [Bubble Sort, Insertion Sort, Selection Sort, etc].",
     image: "./project/algo-visualiser.png",
-    link: "https://ecommerce-next-js-mauve-rho.vercel.app/",
-    svg: "/link.svg",
+    link: "https://github.com/WebDevloper1971/algorithm-visualiser",
+    svg: "./link.svg",
   },
   {
-    name: "Velet",
+    name: "React Miniprojects",
     description:
-      "Timepieces Ecommerce Platform made with Next JS Framework, Prisma ORM, OAuth features for Authentication and Authorization with Modern yet Classic User Interface made with Figma and implemented with Tailwind CSS and Daisy UI. MongoDB Atlas (NoSQL Database) is used for storing data.",
-    image: "",
-    link: "https://ecommerce-next-js-mauve-rho.vercel.app/",
-    svg: "/link.svg",
+      "React Miniprojects - [ Carousel, Expense Tracker, BMI calculator, Todo List, OTP authentication, User Forms, Hex Color Generator, Password Strength Checker, etc ].",
+    image: "./project/reactMiniProjects.png",
+    link: "https://react-mini-projects-lac.vercel.app/",
+    svg: "./link.svg",
   },
 ];
 
